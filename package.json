@@ -1,0 +1,22 @@
+{
+  "name": "spinal-lib-issim",
+  "version": "1.0.0",
+  "description": "## Description",
+  "main": "is-sim.js",
+  "scripts": {
+    "postinstall": "make",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "make",
+    "clean": "make clean"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/spinalcom/lib_is-sim.git"
+  },
+  "author": "SpinalCom",
+  "license": "SpinalCom Free Software License Agreement",
+  "bugs": {
+    "url": "https://github.com/spinalcom/lib_is-sim/issues"
+  },
+  "homepage": "https://github.com/spinalcom/lib_is-sim#readme"
+}
