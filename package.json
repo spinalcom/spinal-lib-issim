@@ -2,7 +2,7 @@
   "name": "spinal-lib-issim",
   "version": "1.0.0",
   "description": "## Description",
-  "main": "is-sim.js",
+  "main": "lib.js",
   "scripts": {
     "postinstall": "make",
     "test": "echo \"Error: no test specified\" && exit 1",
